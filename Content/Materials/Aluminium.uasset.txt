@@ -1,0 +1,106 @@
+Áƒ*ž÷ÿÿÿ`  
+  ù      îŽÌ©£©LÓÎƒ+~çÎ±5      Ÿ‹øüJuˆÙ|¦)½:81   <Á^7ûHäð„ µ~q*&   †`„Od¬ÞÓªÖÇê
+Ï   Õ}i«AOæìQJª(¶·¾y   "ÕTœ¾O&¨F !”Ð‚´a,   ?tüÏ€D°Cß‘“s %   B^›ØFM½$¨¬„ydß8   íh°äéB”ô
+Ú1¢A»F.(      /Game/Materials/Aluminium     b         Æ
+  !   203BEE5726C0A15566F2F9D4EB2DAB3E     Æ
+     s     û
+      S
+      S
+  Æ
+  S
+      [
+  [
+  ,  ]ÂË.òýÿO‰9@;ÿh      b       ï@’   ++UE5+Release-5.4     ï@’   ++UE5+Release-5.4         Œ’'ü    O  *              ÿÿÿÿ5   [   *             /Script/CoreUObject øI->   /Script/Engine †@…I   AmbientOcclusion ü\ç÷   ArrayProperty I°ãi
+   BaseColor ×ÅØÊ   bCanMaskedBeAssumedOpaque *Â a   bHasCustomizedUVs yÉ[   bHasFirstPersonOutput Ø#˜   bHasMaterialCacheOutput Í)   bHasMaterialLayers >ìAq   bHasMeshPaintTexture t¤ »   bHasPerInstanceCustomData ÒÆî   bHasPerInstanceRandom zv’    bHasRuntimeVirtualTextureOutput ›k   bHasSceneColor êT4÷   bHasVertexInterpolator š0W   bHasWorldPosition U/
+    Blends WwØ(   bMaterialCacheHasNonUVDerivedExpression ÅZçë
+   BoolProperty °Š   bUsedWithNanite Â?Ù
+   ClearCoat à°›ƒ   ClearCoatRoughness „   ColorMaterialInput à81   CustomizedUVs Ý£o   DoubleVectorValues >÷žà   DynamicParameterNames 6’ö”   DynamicSwitchValues Ü²Þ   EditorOnlyData —ŸÛ‚   EmissiveColor y_W˜   FloatProperty û§Þý   FontPageValues ;Ã:'
+   FontValues FòK   FunctionInfos ûF[   FunctionInfosStateCRC ç¯‹-
+   GrassTypes f£E¹   Guid CPúh   IntProperty ¥Ó6J    Layers ÒPof
+   LightingGuid ©¢E   LinearColor CsF   MaterialCachedParameterEntry ú;   MaterialFunctionInfo nðý   MaterialLayers xóøŠ#   MaterialLayersFunctionsRuntimeData 
+5   MaterialLayersFunctionsTree !
+U    MaterialParameterCollectionInfo GÄR™   MaterialParameterInfo J¦&+	   Metallic wš
+   NameProperty ‚òJ   None ôÅ
+    Normal ~EÍ   ObjectProperty AÛ³ê   Opacity à²+„   OpacityMask …uÂ   PackageLocalizationNamespace tyˆ   ParameterCollectionInfos 
+€åm   ParameterInfoSet vfý   PropertyConnectedMask €
+æ
+   QualityLevelsUsed ŠiÕ(   ReferencedExternalCodeExpressionClasses AïP   ReferencedTextureCollections ³Ÿ/Í   ReferencedTextures Æ2ß"
+   Refraction 7Ã¯-
+   Roughness ^ãÜj   RuntimeEntries u‰N`   RuntimeVirtualTextureValues uq   ScalarMaterialInput g_4Ö   ScalarPrimitiveDataIndexValues Óüª
+   ScalarValues ‹î´«   SetProperty 27B   SoftObjectProperty [K®ú   SparseVolumeTextureValues ‹°I—	   Specular Ap»x   StateId d¥¼•   StaticSwitchValues  Üº   StructProperty 0 œü   SubsurfaceColor HÉYX   SurfaceThickness ¢í	   Tangent Dt7$   TextureCollectionValues †§™ú   TextureValues Èkù   Tree © 3y	   TwoSided ©4ó   UInt32Property Þ,8J   UInt64Property ^p\l   Vector2MaterialInput m:ñ	   Vector4d  Õ¯   VectorMaterialInput ~¹`·   VectorPrimitiveDataIndexValues Š,jÚ
+   VectorValues êÆ‚·   /Game/Materials/Aluminium îŽOb
+   Aluminium uáœÔ   AluminiumEditorOnlyData “Œ“P   Class twx‘	   Material í°ò1   MaterialEditorOnlyData /Wí¼   Package sGˆ       7       !   203BEE5726C0A15566F2F9D4EB2DAB3E         ^       ýÿÿÿ_       2                   ^       ýÿÿÿ`       2                   a                  2           ÿÿÿÿ            \       
+         5                                     ÿÿÿÿ                        ó       þÿÿÿ           ]       	   Ü      8!                                     ÿÿÿÿ                        Ô                      ÿÿÿÁ  ÿØÿà JFIF      ÿÛ C 
+
+ 
+
+	
+
+
+
+")$+*($''-2@7-0=0''8L9=CEHIH+6OUNFT@GHEÿÛ C
+
+!!E.'.EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEÿÀ   " ÿÄ            	
+
+ÿÄ µ   } !1AQa "q2‘¡#B±ÁRÑð$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ         	
+
+ÿÄ µ   w !1AQ aq"2B‘¡±Á	#3RðbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÚ   ? ó:(¢€
+‰þñ©j'ûÆ€EPÓîÓ©©÷iÔ SîÓé¯Ò€#¢Š(SïT”Ä0«PÙ\Ü)hmå‘AÆQ	 (­Tðæ¨êmÏ, þDÓ¿áÕ¿çÐÿ ßkþ4®³ÿ ®¯ÿ >gþþ'øÓ_Ã²#1³l(ÉÃ©?<Ó¸"ýÚ–k
+«dß=´Ñ)8Ë¡QŸÆ£QòÐE.)(Ö›N~´Ú )Ñõ¦Óãë@QE ÷MGR7Ý5 QE MEE½½hÞÞ´-Dÿ xÑ½½iÀ=h:*M‹éFÑé@	CN¦1Úp´›­ IM~•nÃM»ÔXù
+6ƒ‚íÀØéž¶´Úî¾l£î:aÛ§Ö“v°Ñ¯51b?ùèü/ÿ _§jèì|Ã]ÌÎx;P`{Œõ?¥u(‰àR™@éQÌUŠVšiƒ¬y pfˆ>ÄóZ!#^€T&Bi»É v-QÒ”:ÕPÔ Ð âœ
+š¬
+<M±aTnt
+6ó>m¤y-¸²¤Ÿr9«jMH¬h
+¥÷¢mÍe;Fy;nÃ=@üëšÔtí3&x·D?åªr½¿.½ëÕæ‚‡"ªâ±âÎ9¦W¨j¾±ÔwHÉœÿ ËHøÉç¨èy?_záu=ïI#í1ƒ,ˆr¤ãôü})¦#&ŸZvÁéHÃhÈ¦©j-ÇÖçÖ€$oºj:U%ŽJ~Áé@ÑRl”m_J ŠŠ( ¤Oº*:‘>è  RQJªX€ ’x w ß­tG†ÌÁe¼ iÿ –]?3ý*æ‹£Hš`ÄqþÏÿ ^ºXÐFµ]†[ÛÇU € éR™1Ò¢gÍ79©(¹4‚•52ÀOjv)ENa"˜W ÑN˜¥Àp©STTÈ™ @«R(©{TÂÜã@N!„ŽÔÂ¤P±‘QMn“FÈêX`‚2§ƒŠx9 \ð”q¦‚B€L“ïƒßéõöÇ8â½­0®[ÄÞ’‹PíGN‚Aè}ýáôiˆóŠ)òFÑ»#©WS‚¤`ƒMª©÷ªZ‰>ð©(h¢Š nÁïFÁïN¢€°{ÓKàT•}ã@
+¼ûWO£é^V$”)ÿ Çk?DÓÄ„\H óû¿ñ®ºÚ «Q&4X…-<šLÒu¨)	RÆ™4À*Ä]i .ZÛnÅjÅdôª–Ž+Kí*­Ï¸·
+ž+>EÁ­‰wf¨?&"¾)@§b€(è*Ü)“US­\€óL
++h
+¾¶`Ž•›+Z26Ó$ÊšÓ¥gËÓ]ÁJšÈ¹Q“@Ì¦\SG;Žj2*F Ó]C
+:RÐ +â_
+.¤¦âØ»QôCïè§ŸÇ½{D‹‘\?‹´EŒBÙŒþüŽIá±õëø{š¤É8í»FE&óíNoºj:`;yö£Ì>ÔÊ(jZfñïFñï@©--~×v#É
+Õˆì*ãÞº
+6ÔA$$˜-žÞ‚“v5¬â   àZ‰ÀªvË€*àéY…ëN€RÐ1Â¤FÅCšršb/E1Z±öƒŽµœ­R ¦–“4ÂsQî¥Í :ŠJQLC–¬DØ5\T‹@¶óí­(®øëX¾*ÊJj„kÉs‘Ö¨O.ìÔ^i"¢f&€›&£&ƒL&
+E74fÇEWž5‘C+# ŠŸ4Çò­wL:UüZ2FÇ*úù…eW¥xŸI–œÌŠMÄ ´xÏ>£ò çŠór‡Ú©eí‡Ú‡Ú˜
+¢Š(Å”hºD íêßJêa5chñmå#–8vçô­¸>ð¬äõ)Pt«J8ªÐô«KÒ hpQF)Œm(¥œ˜€SÁ¦P
+0&œ
+D
+<P€ÒŠ@)ÀSõ©TTj*xÅ H‹S¢fˆ£Í]Šb &´’ß#¥)¶ã¥01ž,T,¸­ymýªŒ±bˆ¢¤eÅGHaHÝ(¤4…Åy†·`4íVhw&Aû§ž=qÓ>Õê\Ÿ,÷ÚÃv«Ìm±ˆ^Ç¦O #ÿ ¦„qt”´•@3aô£aô©)ñ(yQOF`(jÎ?*Ö4ä¹ úžjý¹ùª¨<Õˆ5‰F´=*ÒÕ(Oq
+!¢AKŠž0
+wAIÒš`4š¤&L	¦AP-XŒPª´í´(§S(«1
+zÕˆ¨ýºf´à‹5Ÿm[À`U!ÇãÅMâžGÄfO ŠÌž>µ»05“r:Ò"UÅVaW&êj£TŒe4šSL&€Õ›­[}¯Hº‹IŒ²„êHäÌ
+ÑcQš`y!aëI¸zÔ·ð-µýÌIX¥dõÀ$Uj¡U‹%
+wa‘œþ•^¬Øÿ ÇÚ~?ÈÒ{±SBy¨3RFy¬Š5`n]ŒäVdWâj ¸µ"Ôje4V¨É§±È¨0šQM¥*U˜ªªU˜Í0,KH§ŠZbjx5\•€4íÛ¯m'JÁ†LVŒb©ÝŽN)åø¬Øî8ëO7u¦"iŸƒYW-œÔòÏïT&“9¤IOZªõ4Ö«±©Æ5s‰ !4Ú	¤¦ ›x–$‡_»XÆ`Ý{	ýI¬šØñOüŒ7_ðýV=P‚­ißñûãüU«.ò2}qÇ¿žÀnæœ§˜h³(¿
+Uèž²âj¹Ð¤mS+UÞ¬+Ðù¦ÒKš RÑŠ rÔñš€
+‘hÒ·üÔ
+Ôðiˆzšˆp4j7ÅZŠlw¬åj•d¦ª\qÖžn8ëYbZw›Nâ.¼ùïUd—5–¢g  ;T,ÔŒõ5 jŒš
+SsL4f“4„Ð Ÿø›þC×?ðýVEiëó,úÝÓ¨ ÛÏªŒåY•B"©!qÈç¢°'» ¥ ¥ oJdæ[£rxÁ&YOU¨Þ¨!Á«1µ hFõe$¬ôj˜z5RG©–J ²
+<T
+õ*½!Ü
+p¦§ 	E8Œ585 H
+.j=Ôn¦Á©áª Ô¡éˆ°õ_}èrôÂõ	znú`H^˜ZšZ›š vi3MÍ  fšLÕbçìšMÔ °!R½A<ù‘@
+ìËq{q2I€=pI5^˜\úÒn>µB&¢Š(CO“1²÷NG?çüš´k.Ú_&`ÇîžÒµ
+g%¨Ð€â§ª½>6Å!—Qªtj¦S«SmZ¥VªŠÕ*µ ZW©Uê¢µH˜ÖJxz¨¤
+@ƒÓƒÕPÔàÔd=.ú®—u XK¾«†¥Ý@ï¤ßQn£4À“uª<Òæ€š3MÍ  fŒÓsFhÙ®gÆ›-¡µSÌ½°Ý‡LBOé]5çšÖ¡ý£©I*œÆ¿$îŽÿ 'ñ¦„gQEÀ~óíG˜}©´P÷ŸjÕ´ŸÏ€düëÁ¬z³k/’áºŽ„RjàZ@qKÔdr
+6³(ž7«ÕI¬#SÚµJ¦«+TªÔ°¦¤««TŠÔÀœx5 4ðh`iÁªiàÐ ÒƒQN€%”5D
+8 “4¹¨óFi&isQƒJ
+ ?4f›š3@Í¦fšò*!f`ªI' 
+ Î×µ!cdQ‰æS½N{c?pÛ ½\Õ5©j
+0 P òOãUi¡
+Ø=èØ=éÔS*)þYö£Ë>Ô Ê•>è¦ùgÚ”0Qƒ@ìçòœÿ »Vˆ¬mãÐÖµÚÏò·Ö¡¡¢j’7õ¦AÅHËˆÕ2µRêÂµ1•ªEj®­R+SÀ4ðjjx404àj iÀÐ Ó¨§L	§QN€$—54¹ 	¥ÍGš\ÐóFi›©7P›«˜ñ&¬}Š g÷¤Nƒ?Ïÿ ×W5dY¡†
+Á‚{ý}¿Éä6jhB/Þ©)vœž”»Ç½0E7x÷£x÷ 	(¢Š *'ûÆ¥¨Ÿï m($ƒ‚:J(RÖçÏ]¯ÃÖ§"²#û¦®Ãwü2ôþõCC,ƒƒSG%EÔdt¤ät¤Ôz™Z¨$žµ:I@ª@ÕU^¤V¦Ôðjºµ<5 N
+8€585 L
+8„5850%—5ê]Ô&ê]ÕêF•QK1 ’Oj —uejÚÀ´H3‘ÿ |_¯·ù9Ú–¾_1Y)2`ƒøzVu?Ji‘˜»bK’IäÒRÑL·Ý5HßtÔt QE6õõ£zúÔTP»×Ö˜Ac‘Ò›R§ÝÆô£czT´Pín)w¯­6O½øS(ÌW&/ºx=ˆ«‘ÝE'ñm>†²©Ñõ4šcªäVts¼}G¡éS¥ÚžH÷6 ’ÔË%g¤ŠØØÀ“Û<Ô¡È¤‚½<=PIªU”zÓèzpz¨%÷§	}èØzpz¨%µ—ðÃò¨#¨Ï?• ho£Ì¬µÕ¡cÏ-À¬ÛB{®$|/÷WNÂ:+bÞùJÝ‚þµy}szGšFÐrx«'Ý§Ó°m>”ª6œš’šý)€n´o_ZŽŠ Ã­7czPŸz¥ ¶7¥Ò¥¢€!¢Š( ©SîŠŠ¥Oº(h¢Š ŽO½L§É÷©” S£ëM§G÷Ò€$¢Š(­÷M1]“;X®}
+=þé¨¨au2Œ 8÷¥ûdÿ ßýAEà»˜ü¨7s0þT4R°iþóÇ©ÍBßxÔ•}ãLÑE$vŸLîþ4ú )¯÷iÔ×û¿ GEP“ï
+–¢O¼*Z (¢Š ÿÙ   	   Material 
+   Aluminium _
+            
+   Aluminium    /Script/Engine.Material 
+   
+   BlendMode 
+   BLEND_Opaque    HasPerInstanceCustomData    False    HasPerInstanceRandom    False    HasSceneColor    False    HasVertexInterpolator    False    MaterialDecalResponse    MDR_ColorNormalRoughness    MaterialDomain 
+   MD_Surface 
+   ShadingModel    MSM_DefaultLit    ShadingModels    (ShadingModelField=2)    TranslucencyLightingMode    TLM_VolumetricNonDirectional                         S                                                                  J       L          $                         ø·5ÄîE°Èg‘o¢       4                  '       L          $                         †÷
+M’Hˆ±ÙãôpI2                               L                               8           2                              ´q„>´q„>´q„>  €?0       L          C                     ,           2                              š™?I       L          C                     ,           2                                 ?@       L          C                     ,           2                              š™™>3       L          X                     4           2                                        €?O       L          X                     4           2                                €?               L                               8           2                                              5       L          C                     ,           2                                €?6       L          C                     ,           2                                €?M       L                               8           2                                €?  €?  €?           L          C                     ,           2                                €?       L          C                     ,           2                              ÍÌÌ=       L          C                     ,           2                                €??       L          C                     ,           2                                €?       L          V                     0           2                                             L          V                     0   	           2                                             L          V                     0   	           2                                             L          V                     0   	           2                                             L          V                     0   	           2                                             L          V                     0   	           2                                             L          V                     0   	           2                                             L          V                     0   	            2                                      N       L          C                     ,           2                              
+×#<2               Áƒ*ž—ö¥€.;ÄÑ                  vÞ8QÊ¿)0       Áƒ*ž
